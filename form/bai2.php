@@ -1,0 +1,1 @@
+<!-- Xử lý form với phương thức Get  -->
